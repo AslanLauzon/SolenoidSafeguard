@@ -1,0 +1,403 @@
+(footprint "SOT-23-3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.025 -3.375 0)
+		(layer "F.SilkS")
+		(uuid "a36f1e9d-559a-4d9f-8fbb-b3a66861c95d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BSS138"
+		(at 0.025 3.25 0)
+		(layer "F.Fab")
+		(uuid "164434ce-77cf-4d52-b60a-d7b48f93d669")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76a8c349-ecab-4c3d-8685-97112e46700c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "MOSFET N-CH 50V 220MA SOT-23"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "279828bb-4017-41be-ae7d-0032d80156dd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "BSS138CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19f3b545-ccb8-454e-a049-dab355df1beb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "BSS138"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15d4ed41-9858-40c7-8e08-07f51d06bab5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Category" "Discrete Semiconductor Products"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c19b15a3-ef50-4fe3-9f29-0ed8bb4b5fb6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Family" "Transistors - FETs, MOSFETs - Single"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "354789e8-41b7-4a75-a1ff-9580e3a8358b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Datasheet_Link" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8ee589c-837a-41d5-bcf6-465042261d51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BSS138/BSS138CT-ND/244294"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6b208fc-8836-4eb8-8eb7-a9c799708412")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "MOSFET N-CH 50V 220MA SOT-23"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9bd916f4-41a1-4e86-961b-69be4cb4f0ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6ec9ca3-101a-4509-bc2a-43b51b1c0875")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Status" "Active"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22acdea7-3d38-45a3-b97c-59bb8908645e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.825 -1.375)
+		(end -0.825 -1.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8be6437-e6a0-4c0c-8e07-2e9126ecc230")
+	)
+	(fp_line
+		(start -0.825 -1.325)
+		(end -1.6 -1.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d367a02-800e-487e-8dd2-3787f82f699f")
+	)
+	(fp_line
+		(start -0.825 1.65)
+		(end -0.825 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdb45f10-c490-4f91-89aa-67f3d8f9aa37")
+	)
+	(fp_line
+		(start -0.45 -1.65)
+		(end -0.825 -1.375)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5c3031e2-23b7-42bb-bfac-027c8a3073a6")
+	)
+	(fp_line
+		(start -0.35 1.65)
+		(end -0.825 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "52f93e41-1a00-428d-9fc9-2ff5afbc2872")
+	)
+	(fp_line
+		(start -0.175 -1.65)
+		(end -0.45 -1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "acf275d1-33da-4f87-94c9-0dea94a8faaf")
+	)
+	(fp_line
+		(start 0.45 -1.65)
+		(end 0.825 -1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97240c0c-405f-4378-9a06-c06eb17b49fa")
+	)
+	(fp_line
+		(start 0.825 -1.65)
+		(end 0.825 -1.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75c00ab8-6a30-4783-9d44-a72eec572eca")
+	)
+	(fp_line
+		(start 0.825 1.35)
+		(end 0.825 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7152fdf3-9384-410e-a329-ddff5c82a8a8")
+	)
+	(fp_line
+		(start 0.825 1.425)
+		(end 0.825 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98a0726f-8d3f-4c8e-ae28-537600c60810")
+	)
+	(fp_line
+		(start 0.825 1.65)
+		(end 0.375 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6048b644-9b5d-4ea9-a322-d08b90de6ba9")
+	)
+	(fp_line
+		(start -1.825 -1.95)
+		(end -1.825 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8ea950b6-9ac0-4a3c-83db-3c4f50920f5f")
+	)
+	(fp_line
+		(start -1.825 -1.95)
+		(end 1.825 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4933215e-f83d-4d1a-b39a-dc0cb5bab4d5")
+	)
+	(fp_line
+		(start 1.825 -1.95)
+		(end 1.825 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fabc5f63-aa6d-4a5f-9f0f-0655bf072951")
+	)
+	(fp_line
+		(start 1.825 1.95)
+		(end -1.825 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "578595e6-185b-4dc9-b9bb-67bf910bd7b0")
+	)
+	(fp_line
+		(start -0.7 -1.325)
+		(end -0.7 1.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fae49e73-8d07-4d64-8fb3-b39b887f0ace")
+	)
+	(fp_line
+		(start -0.7 1.52)
+		(end 0.7 1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e6ddd8fa-ef58-4b2c-8bc4-c10592fa13cf")
+	)
+	(fp_line
+		(start -0.425 -1.525)
+		(end -0.7 -1.325)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b057adf3-252c-45b6-88b6-73e35e21e74b")
+	)
+	(fp_line
+		(start -0.425 -1.525)
+		(end 0.7 -1.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34113c26-34f6-448b-a2f5-73b9dcce5494")
+	)
+	(fp_line
+		(start 0.7 1.52)
+		(end 0.7 -1.52)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "42791d3a-f80b-4449-ac07-03b97ab83a43")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.125 0.15 0)
+		(layer "F.Fab")
+		(uuid "fb03f350-1ceb-4dcf-baa8-7f29d2d93584")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.05 -0.95)
+		(size 1.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.07)
+		(uuid "ac32f3f5-2fea-4437-a7c7-a6e3f99b60e2")
+	)
+	(pad "2" smd rect
+		(at -1.05 0.95)
+		(size 1.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.07)
+		(uuid "d03f2c65-b63d-48f2-ad76-78ce582b8763")
+	)
+	(pad "3" smd rect
+		(at 1.05 0)
+		(size 1.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.07)
+		(uuid "c331c903-9bb8-469b-9298-dcfe20a4270b")
+	)
+	(embedded_fonts no)
+)
